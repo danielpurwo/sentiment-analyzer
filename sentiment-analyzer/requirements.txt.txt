@@ -6,3 +6,6 @@ joblib
 nltk
 wordcloud
 matplotlib
+transformers
+torch
+
